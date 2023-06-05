@@ -1,0 +1,6 @@
+Bursa
+3000000
+Ankara
+5000000
+Istanbul
+15000000
